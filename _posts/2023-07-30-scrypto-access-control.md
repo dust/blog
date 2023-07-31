@@ -1,3 +1,10 @@
+---
+layout: post
+title: Radix Scrypto(v0.11.0) Access Control
+subtitle: rcnet-v2 
+# hero_image: /path/to/image.jpg
+hero_darken: true
+---
 Scrypto(v0.11.0) Access Control
 ================================
 
