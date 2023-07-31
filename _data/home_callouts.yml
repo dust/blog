@@ -1,0 +1,12 @@
+style: is-light
+items:
+  - title: Learning
+    subtitle: Enhance the depth and usefulness of learning.
+    icon: fa-copy
+  - title: Thinking
+    subtitle: Concrete and systematic thinking.
+    icon: fa-mail-bulk
+  - title: Memorizing
+    subtitle: Improve efficiency and quality of memory.
+    icon: fa-github
+    icon_brand: true
