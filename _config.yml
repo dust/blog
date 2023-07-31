@@ -4,3 +4,13 @@ lang: en
 google_analytics: G-N2PVPNWG20
 remote_theme: chrisrhymes/bulma-clean-theme
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Dust"
+      layout: post
+      # hero_image: /path/to/hero-image.jpg
+      show_sidebar: true
