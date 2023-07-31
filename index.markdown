@@ -4,3 +4,4 @@
 
 layout: home
 ---
+## Notes for DevOps, IT, block chain, Smart contract
